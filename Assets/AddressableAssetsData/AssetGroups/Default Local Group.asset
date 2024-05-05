@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 365418018f9290541b9e811bd3ea1d16
+  m_SerializeEntries:
+  - m_GUID: 9f2e205204e35f443b2399ba1c559a5a
+    m_Address: NewCar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 172336a9887469843b4a8fdc1943bdd3
+    m_Address: Sport Coupe Demo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 427d3e0b0abc7ee429d759ab8d3e5d3e
+    m_Address: "Yar\u0131\u015FEkran\u01312"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0e2614ce220c0e479aefb961871ed3a
+    m_Address: "Yar\u0131\u015FEkran\u01313"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: "Yar\u0131\u015FEkran\u0131"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 07a85920b22d71f4e94c7aa0c49da508, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f42a533b1ebe27e49962817b7b273cc8, type: 2}
+    - {fileID: 11400000, guid: 1bb2395eb3bdf5848aeab11fc79d2518, type: 2}
